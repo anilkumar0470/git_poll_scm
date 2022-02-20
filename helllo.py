@@ -10,3 +10,6 @@ def test_hi1():
 
 def test_hi2():
     print("hii")
+
+def test_hi3():
+    print("hii")
